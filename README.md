@@ -27,3 +27,7 @@ Was your survey a good indicator? Let’s find out!
 #### 04.Petal Power Inventory
 
 You’re the lead data analyst for a chain of gardening stores called Petal Power. Help them analyze their inventory!
+
+#### 05.A/B Testing for ShoeFly.com
+
+Our favorite online shoe store, ShoeFly.com is performing an A/B Test. They have two different versions of an ad, which they have placed in emails, as well as in banner ads on Facebook, Twitter, and Google. They want to know how the two ads are performing on each of the different platforms on each day of the week. Help them analyze the data using aggregate measures.
