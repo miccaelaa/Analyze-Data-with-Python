@@ -21,3 +21,9 @@ You’re part of an impartial research group that conducts phone surveys prior t
 Now that the election has occurred, your group wants to compare the survey responses to the actual results.
 
 Was your survey a good indicator? Let’s find out!
+
+## Data Manipulation with Pandas
+
+#### 04.Petal Power Inventory
+
+You’re the lead data analyst for a chain of gardening stores called Petal Power. Help them analyze their inventory!
