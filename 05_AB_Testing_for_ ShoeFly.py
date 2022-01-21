@@ -1,4 +1,3 @@
-import codecademylib3
 import pandas as pd
 
 #Database
