@@ -31,3 +31,14 @@ You’re the lead data analyst for a chain of gardening stores called Petal Powe
 #### 05.A/B Testing for ShoeFly.com
 
 Our favorite online shoe store, ShoeFly.com is performing an A/B Test. They have two different versions of an ad, which they have placed in emails, as well as in banner ads on Facebook, Twitter, and Google. They want to know how the two ads are performing on each of the different platforms on each day of the week. Help them analyze the data using aggregate measures.
+
+#### 06.Page Visits Funnel
+
+Cool T-Shirts Inc. has asked you to analyze data on visits to their website. Your job is to build a funnel, which is a description of how many people continue to the next step of a multi-step process.
+
+In this case, our funnel is going to describe the following process:
+
+1. A user visits CoolTShirts.com
+2. A user adds a t-shirt to their cart
+3. A user clicks “checkout”
+4. A user actually purchases a t-shirt
