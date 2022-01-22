@@ -42,3 +42,11 @@ In this case, our funnel is going to describe the following process:
 2. A user adds a t-shirt to their cart
 3. A user clicks “checkout”
 4. A user actually purchases a t-shirt
+
+## Statistics for Data Analysis
+
+#### 07.Variance in Weather
+
+You’re planning a trip to London and want to get a sense of the best time of the year to visit. Luckily, you got your hands on a dataset from 2015 that contains over 39,000 data points about weather conditions in London. Surely, with this much information, you can discover something useful about when to make your trip!
+
+In this project, the data is stored in a Pandas DataFrame.
