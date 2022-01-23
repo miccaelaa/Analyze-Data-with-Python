@@ -68,3 +68,9 @@ Familiar has fallen into some tough times lately, so you’re hoping to help the
 #### 10.FetchMaker
 
 Congratulations! You’ve just started working at the hottest new tech startup, FetchMaker. FetchMaker’s mission is to match up prospective dog owners with their perfect pet. Data on thousands of adoptable dogs are in FetchMaker’s system, and it’s your job to analyze some of that data.
+
+## Sample Size Determination
+
+#### 11.A/B Testing at Nosh Mish Mosh
+
+The Nosh Mish Mosh is a recipe and ingredient meal delivery service. They ship the raw materials and you get to cook them at your home! They’ve decided to hire a data analyst to help make product and interface decisions. Get started to help them figure out the amount of data they’ll need to make meaningful decisions.
